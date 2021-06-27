@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>me.markoutte.plugins.turbo</id>
-    <name>Win Tubo Mode</name>
-    <vendor>Markoutte</vendor>
+    <name>Win Turbo Mode</name>
+    <vendor>Maksim Pelevin</vendor>
     <depends>com.intellij.modules.platform</depends>
     <actions>
         <action class="me.markoutte.plugins.turbo.TurboAction"/>
