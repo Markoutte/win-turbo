@@ -1,7 +1,7 @@
 # Win Turbo
 
 <!-- Plugin description -->
-This plugin enables Windows OS high-precision timer:
+This plugin enables Windows OS high-precision timer in JetBrains IDEs:
 
 [LockSupport.parkNanos() Under the Hood and the Curious Case of Parking, Part II: Windows](https://hazelcast.com/blog/locksupport-parknanos-under-the-hood-and-the-curious-case-of-parking-part-ii-windows/)
 <!-- Plugin description end -->

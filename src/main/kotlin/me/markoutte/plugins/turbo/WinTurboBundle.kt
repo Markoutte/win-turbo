@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package me.markoutte.plugins.turbo
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
@@ -7,7 +7,7 @@ import org.jetbrains.annotations.PropertyKey
 @NonNls
 private const val BUNDLE = "messages.MyBundle"
 
-object MyBundle : AbstractBundle(BUNDLE) {
+object WinTurboBundle : AbstractBundle(BUNDLE) {
 
     @Suppress("SpreadOperator")
     @JvmStatic

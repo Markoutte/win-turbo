@@ -2,9 +2,8 @@ package me.markoutte.plugins.turbo
 
 import com.intellij.openapi.actionSystem.AnActionEvent
 import com.intellij.openapi.actionSystem.ToggleAction
-import org.jetbrains.plugins.template.MyBundle
 
-class TurboAction : ToggleAction(MyBundle.message("mode.action")) {
+class TurboAction : ToggleAction(WinTurboBundle.message("mode.action")) {
 
     private var isEnabled: Boolean = false
 
